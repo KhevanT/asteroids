@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bd956924aff333945ac8b54a6f795d83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - asteroidSprite0: {fileID: 21300000, guid: 26ff4a3d48d93f34dad9f8925a6e108f, type: 3}
+  - asteroidSprite1: {fileID: 21300000, guid: 803a90c465f15664cb30ffdd21792080, type: 3}
+  - asteroidSprite2: {fileID: 21300000, guid: 08014b2f9cb129745b1d7efcc4f84a5a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
